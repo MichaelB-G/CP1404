@@ -1,1 +1,0 @@
-Environmental Logger (MUST-HAVE)
