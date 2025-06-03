@@ -1,0 +1,7 @@
+shark species, length
+great white shark, 4
+tiger shark, 3
+bull shark, 2
+common black tip shark, 2
+northern river shark, 1
+bronze whaler, 2
