@@ -1,4 +1,4 @@
-from car import Car
+from prac_06.car import Car
 
 def main():
     limo = Car("Limo", 100)
